@@ -1,1 +1,5 @@
 # UAS_SPK_Sistem-Rekomendasi-Laptop
+
+NAMA : SATRIO ADI BASKORO
+KELAS: 3A-TRPL
+NIM  : 362358302007
