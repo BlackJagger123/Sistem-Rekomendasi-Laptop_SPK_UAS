@@ -146,7 +146,7 @@ def main():
 
         if not filtered_candidates:
             st.error(f"**Tidak Ditemukan!**")
-            st.warning("Saran: Naikkan budget atau ubah ukuran layar.")
+            st.warning("Saran: Naikkan budget atau ubah spesifikasi.")
             
             st.divider()
             empty_df = pd.DataFrame(columns=['Nama', 'Harga', 'RAM', 'Storage', 'Layar', 'GPU'])
